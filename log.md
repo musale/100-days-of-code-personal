@@ -4,6 +4,6 @@
 
 **Today's Progress**: Created repo for the app, setup the project
 
-**Thoughts:** 
+**Thoughts:** I had some difficulty in configuring webpack babel loader. I managed by doing some tweaks in my package file.
 
 **Link to work:** [React Admin](https://github.com/musale/su)
