@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 2: January 4th, 2016
+### Day 2: January 9th, 2016
+
+**Today's Progress**: Did some fixes on the website
+
+**Thoughts:** Reading logs saves you a lot of pain sometimes
+
+**Link to work:** [Fortis Advisory](http://fortisadvisory.co.ke)
+
+### Day 1: January 4th, 2016
 
 **Today's Progress**: Deployed a website I have been working on to digital ocean
 
@@ -8,7 +16,7 @@
 
 **Link to work:** [Fortis Advisory](http://fortisadvisory.co.ke)
 
-### Day 1: January 3rd, 2016
+### Day 0: January 3rd, 2016
 
 **Today's Progress**: Created repo for the app, setup the project
 
