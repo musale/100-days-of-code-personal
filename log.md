@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 11th, 2016
+
+**Today's Progress**: Set up a new website I am working on. It is an e-commerce site.
+
+**Thoughts:** Well I really need to automate my local development builds. I am thinking using ansible scripts since I use Vagrant.
+
+**Link to work:** [Moonie](https://github.com/musale/moonie)
+
 ### Day 2: January 9th, 2016
 
 **Today's Progress**: Did some fixes on the website
