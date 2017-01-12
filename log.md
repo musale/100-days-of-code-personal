@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 12th, 2016
+
+**Today's Progress**: Started on a react js tutorial.
+
+**Thoughts:** I see this approach better as I can be able to have a follow through. I also like video tutorial and [this] (https://online.reacttraining.com) react tutorial is so far so good. I hope to finish it by end of next week so whoop! whoop!
+
+**Link to work:** [battle](https://github.com/musale/battle)
+
 ### Day 3: January 11th, 2016
 
 **Today's Progress**: Set up a new website I am working on. It is an e-commerce site.
