@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 13th, 2016
+
+**Today's Progress**: Day 2 on react JS tutorial.
+
+**Thoughts:** I learnt about react routes and child props. Routes are a bit tricky to grasp but with time I want to be very good at them
+
+**Link to work:** [battle](https://github.com/musale/battle)
+
 ### Day 4: January 12th, 2016
 
 **Today's Progress**: Started on a react js tutorial.
