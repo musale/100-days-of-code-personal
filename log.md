@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 17th, 2016
+
+**Today's Progress**: Day 3 on react JS tutorial.
+
+**Thoughts:** we went through ```stateless functional components```, ```proptypes``` which help in de-bugging and documentation and we also did separating componente i.e. ```container components``` from ```presentational components```. I think following a 'programming structure' where by you abstract your program's functionality like this would be a great way to come up with clean, refactored and easy to maintain code.
+
+**Link to work:** [battle](https://github.com/musale/battle)
+
 ### Day 5: January 13th, 2016
 
 **Today's Progress**: Day 2 on react JS tutorial.
