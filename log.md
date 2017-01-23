@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 20th, 2016
+
+**Today's Progress**: Finished the react JS tutorial.
+
+**Thoughts:** finally got done with the react JS tutorial. Now I have started creating a weather app.
+
+**Link to work:** [battle](https://github.com/musale/battle)
+
+
 ### Day 6: January 17th, 2016
 
 **Today's Progress**: Day 3 on react JS tutorial.
