@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 23rd, 2016
+
+**Today's Progress**: Day 2 on react JS weather app.
+
+**Thoughts:** I went through step 2 to step 8. using components and containers abstractions was quite hectic but I pulled through. Last commit had a bug. I will fix tomorrow.
+**Link to work:** [weather](https://github.com/musale/weather-app)
+
+
 ### Day 7: January 20th, 2016
 
 **Today's Progress**: Finished the react JS tutorial.
