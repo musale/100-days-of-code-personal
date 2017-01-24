@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 24th, 2016
+
+**Today's Progress**: I created a twitter bot that will be tweeting the commits I make to this repo.
+
+**Thoughts:** Creating the bot code was a bit easy using python, github and twitter APIs. A little problem I faced was making it into a cron job in one of my servers. In my local machine the cron worked perfect, in my server, I had a little bit of a problem getting it to work.
+**Link to work:** [twitter-bot-for-100-days-of-code](https://github.com/musale/twitter-bot-for-100-days-of-code)
+
+
 ### Day 8: January 23rd, 2016
 
 **Today's Progress**: Day 2 on react JS weather app.
