@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 25th, 2016
+
+**Today's Progress**: Worked with InfluxDB and Grafana. InfluxDB is a time series DB while Grafana is a visualization tool which I will be using for time series data.
+
+**Thoughts:** Configuring InfluxDB was a bit hectic for me. I should write my people out there a little blog or something. Especially those who use ```Vagrant```. Generally, a good experience. I can't wait to start visualizing data.
+**Link to work:** None yet ;)
+
 ### Day 9: January 24th, 2016
 
 **Today's Progress**: I created a twitter bot that will be tweeting the commits I make to this repo.
