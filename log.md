@@ -2,10 +2,10 @@
 
 ### Day 10: January 25th, 2016
 
-**Today's Progress**: Worked with InfluxDB and Grafana. InfluxDB is a time series DB while Grafana is a visualization tool which I will be using for time series data.
+**Today's Progress**: Worked with InfluxDB and Grafana. InfluxDB is a time series DB while Grafana is a visualization tool which I will be using for time series data. I also fixed some bug in my weather app and added new routes to the detail page where I will display some more info.
 
 **Thoughts:** Configuring InfluxDB was a bit hectic for me. I should write my people out there a little blog or something. Especially those who use ```Vagrant```. Generally, a good experience. I can't wait to start visualizing data.
-**Link to work:** None yet ;)
+**Link to work:** [weather](https://github.com/musale/react-fundamentals-curriculum/commits/master)
 
 ### Day 9: January 24th, 2016
 
