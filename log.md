@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 26th, 2016
+
+**Today's Progress**: Worked with InfluxDB and Grafana. I made some test entries into InfluxDB and then plotted them on Grafana by creating some queries. I also worked on Moonie web where I created some DB logic.
+
+**Thoughts:** Using InfluxDB APIs to send data to the data store was a bit hectic. I had intended to use a front-end client but it seemed to give me a lot of blockers esp. using AJAX. So I opted for back-end python client and it works well. As for Grafana, coming up with the correct query has never been that difficult.
+
+**Link to work:** [Moonie](https://github.com/musale/moonie/commits/master) , InfluxDB and Grafana will come later ;)
+
 ### Day 10: January 25th, 2016
 
 **Today's Progress**: Worked with InfluxDB and Grafana. InfluxDB is a time series DB while Grafana is a visualization tool which I will be using for time series data. I also fixed some bug in my weather app and added new routes to the detail page where I will display some more info.
