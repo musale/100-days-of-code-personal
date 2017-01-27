@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 27th, 2016
+
+**Today's Progress**: Worked with InfluxDB and Grafana. I came up with more precise queries for Grafana visualization. Then I explored some other options for data sources for Grafana and since I have a MySQL db with lots of data that was the next option.
+
+**Thoughts:** Grafana currently does not have an official MySQL plugin. Bummer. So one kind human [Sraos](https://github.com/sraoss/grafana-sqldb-datasource) made one for us. And guess what? It's working. Not for me cos I had serious issues trying to set up my own clone of Grafana so that I could use the MySQL plugin with ease. So I guess when I fix that ~~or Grafana merge this PR~~ then I will be able to connect to my DB. Well. Waiting to accomplish that tomorrow cos I'm out.
+
+**Link to work:** InfluxDB and Grafana will come later ;)
+
 ### Day 11: January 26th, 2016
 
 **Today's Progress**: Worked with InfluxDB and Grafana. I made some test entries into InfluxDB and then plotted them on Grafana by creating some queries. I also worked on Moonie web where I created some DB logic.
