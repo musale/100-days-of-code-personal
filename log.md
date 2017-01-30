@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 30th, 2016
+
+**Today's Progress**: I worked on a google chrome extension. This extension just allows you to use GTmetrix to check the site speed of whatever site you happened to be browsing, just by clicking a button.
+
+**Thoughts:** I was womdering how google chrome extensions work and was suprised that it's actually simple to come up with one. I hope I will create more extensions soon.
+
+**Link to work:** [Google Chrome Extension](https://github.com/musale/chrome-extension-gmetrix)
+
 ### Day 12: January 27th, 2016
 
 **Today's Progress**: Worked with InfluxDB and Grafana. I came up with more precise queries for Grafana visualization. Then I explored some other options for data sources for Grafana and since I have a MySQL db with lots of data that was the next option.
