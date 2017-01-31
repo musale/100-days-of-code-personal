@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 31sh, 2016
+
+**Today's Progress**: I finished up the ReactJs weather app
+
+**Thoughts:** I need another project to finesse what I have learnt
+
+**Link to work:** [weather](https://github.com/musale/react-fundamentals-curriculum/commits/master)
+
+
 ### Day 13: January 30th, 2016
 
 **Today's Progress**: I worked on a google chrome extension. This extension just allows you to use GTmetrix to check the site speed of whatever site you happened to be browsing, just by clicking a button.
