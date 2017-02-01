@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 14: January 31sh, 2016
+### Day 15: February 1, 2017
+
+**Today's Progress**: I worked on custom analytics for a site.
+
+**Thoughts:** Investigate more on Cassandra DB
+
+**Link to work:** Not today :wink:
+
+### Day 14: January 31sh, 2017
 
 **Today's Progress**: I finished up the ReactJs weather app
 
@@ -9,7 +17,7 @@
 **Link to work:** [weather](https://github.com/musale/react-fundamentals-curriculum/commits/master)
 
 
-### Day 13: January 30th, 2016
+### Day 13: January 30th, 2017
 
 **Today's Progress**: I worked on a google chrome extension. This extension just allows you to use GTmetrix to check the site speed of whatever site you happened to be browsing, just by clicking a button.
 
@@ -17,7 +25,7 @@
 
 **Link to work:** [Google Chrome Extension](https://github.com/musale/chrome-extension-gmetrix)
 
-### Day 12: January 27th, 2016
+### Day 12: January 27th, 2017
 
 **Today's Progress**: Worked with InfluxDB and Grafana. I came up with more precise queries for Grafana visualization. Then I explored some other options for data sources for Grafana and since I have a MySQL db with lots of data that was the next option.
 
@@ -25,7 +33,7 @@
 
 **Link to work:** InfluxDB and Grafana will come later ;)
 
-### Day 11: January 26th, 2016
+### Day 11: January 26th, 2017
 
 **Today's Progress**: Worked with InfluxDB and Grafana. I made some test entries into InfluxDB and then plotted them on Grafana by creating some queries. I also worked on Moonie web where I created some DB logic.
 
@@ -33,14 +41,14 @@
 
 **Link to work:** [Moonie](https://github.com/musale/moonie/commits/master) , InfluxDB and Grafana will come later ;)
 
-### Day 10: January 25th, 2016
+### Day 10: January 25th, 2017
 
 **Today's Progress**: Worked with InfluxDB and Grafana. InfluxDB is a time series DB while Grafana is a visualization tool which I will be using for time series data. I also fixed some bug in my weather app and added new routes to the detail page where I will display some more info.
 
 **Thoughts:** Configuring InfluxDB was a bit hectic for me. I should write my people out there a little blog or something. Especially those who use ```Vagrant```. Generally, a good experience. I can't wait to start visualizing data.
 **Link to work:** [weather](https://github.com/musale/react-fundamentals-curriculum/commits/master)
 
-### Day 9: January 24th, 2016
+### Day 9: January 24th, 2017
 
 **Today's Progress**: I created a twitter bot that will be tweeting the commits I make to this repo.
 
@@ -48,7 +56,7 @@
 **Link to work:** [twitter-bot-for-100-days-of-code](https://github.com/musale/twitter-bot-for-100-days-of-code)
 
 
-### Day 8: January 23rd, 2016
+### Day 8: January 23rd, 2017
 
 **Today's Progress**: Day 2 on react JS weather app.
 
@@ -56,7 +64,7 @@
 **Link to work:** [weather](https://github.com/musale/weather-app)
 
 
-### Day 7: January 20th, 2016
+### Day 7: January 20th, 2017
 
 **Today's Progress**: Finished the react JS tutorial.
 
@@ -65,7 +73,7 @@
 **Link to work:** [battle](https://github.com/musale/battle)
 
 
-### Day 6: January 17th, 2016
+### Day 6: January 17th, 2017
 
 **Today's Progress**: Day 3 on react JS tutorial.
 
@@ -73,7 +81,7 @@
 
 **Link to work:** [battle](https://github.com/musale/battle)
 
-### Day 5: January 13th, 2016
+### Day 5: January 13th, 2017
 
 **Today's Progress**: Day 2 on react JS tutorial.
 
@@ -81,7 +89,7 @@
 
 **Link to work:** [battle](https://github.com/musale/battle)
 
-### Day 4: January 12th, 2016
+### Day 4: January 12th, 2017
 
 **Today's Progress**: Started on a react js tutorial.
 
@@ -89,7 +97,7 @@
 
 **Link to work:** [battle](https://github.com/musale/battle)
 
-### Day 3: January 11th, 2016
+### Day 3: January 11th, 2017
 
 **Today's Progress**: Set up a new website I am working on. It is an e-commerce site.
 
@@ -97,7 +105,7 @@
 
 **Link to work:** [Moonie](https://github.com/musale/moonie)
 
-### Day 2: January 9th, 2016
+### Day 2: January 9th, 2017
 
 **Today's Progress**: Did some fixes on the website
 
@@ -105,7 +113,7 @@
 
 **Link to work:** [Fortis Advisory](http://fortisadvisory.co.ke)
 
-### Day 1: January 4th, 2016
+### Day 1: January 4th, 2017
 
 **Today's Progress**: Deployed a website I have been working on to digital ocean
 
@@ -113,7 +121,7 @@
 
 **Link to work:** [Fortis Advisory](http://fortisadvisory.co.ke)
 
-### Day 0: January 3rd, 2016
+### Day 0: January 3rd, 2017
 
 **Today's Progress**: Created repo for the app, setup the project
 
