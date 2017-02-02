@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 2, 2017
+
+**Today's Progress**: Github pages. I deployed my past react projects to Github pages.
+
+**Thoughts:** I have run into a problem making the default url be a react app.
+
+**Link to work:** [Musale Github Page](https://musale.github.io)  [weather app Page](https://musale.github.io/react-fundamentals-curriculum) [Battle App Page](https://musale.github.io/battle-react)
+
 ### Day 15: February 1, 2017
 
 **Today's Progress**: I worked on custom analytics for a site.
@@ -70,7 +78,7 @@
 
 **Thoughts:** finally got done with the react JS tutorial. Now I have started creating a weather app.
 
-**Link to work:** [battle](https://github.com/musale/battle)
+**Link to work:** [battle](https://github.com/musale/battle-react)
 
 
 ### Day 6: January 17th, 2017
@@ -79,7 +87,7 @@
 
 **Thoughts:** we went through ```stateless functional components```, ```proptypes``` which help in de-bugging and documentation and we also did separating componente i.e. ```container components``` from ```presentational components```. I think following a 'programming structure' where by you abstract your program's functionality like this would be a great way to come up with clean, refactored and easy to maintain code.
 
-**Link to work:** [battle](https://github.com/musale/battle)
+**Link to work:** [battle](https://github.com/musale/battle-react)
 
 ### Day 5: January 13th, 2017
 
@@ -87,7 +95,7 @@
 
 **Thoughts:** I learnt about react routes and child props. Routes are a bit tricky to grasp but with time I want to be very good at them
 
-**Link to work:** [battle](https://github.com/musale/battle)
+**Link to work:** [battle](https://github.com/musale/battle-react)
 
 ### Day 4: January 12th, 2017
 
@@ -95,7 +103,7 @@
 
 **Thoughts:** I see this approach better as I can be able to have a follow through. I also like video tutorial and [this] (https://online.reacttraining.com) react tutorial is so far so good. I hope to finish it by end of next week so whoop! whoop!
 
-**Link to work:** [battle](https://github.com/musale/battle)
+**Link to work:** [battle](https://github.com/musale/battle-react)
 
 ### Day 3: January 11th, 2017
 
