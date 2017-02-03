@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 3, 2017
+
+**Today's Progress**: I dived right into Progressive Web Apps.
+
+**Thoughts:** There is a plethora of stuff on getting started on PWAs. I decided to use Google's guide and I'm almost done.
+
+**Link to work:** Not today :wink:
+
 ### Day 16: February 2, 2017
 
 **Today's Progress**: Github pages. I deployed my past react projects to Github pages.
