@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 4, 2017
+
+**Today's Progress**: Continued with Progressive Web Apps.
+
+**Thoughts:** The Google guide is fine. Still working on it and understanding the edges so hopefully end of this weekend I will have enough to do something on my own.
+
+**Link to work:** Not today :wink:
+
 ### Day 17: February 3, 2017
 
 **Today's Progress**: I dived right into Progressive Web Apps.
