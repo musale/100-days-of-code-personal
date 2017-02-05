@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 5, 2017
+
+**Today's Progress**: Went through some React JS Conf. 2016 videos. Some cool stuff going on in the React and React-Native scene.
+
+**Thoughts:** I was glad that many front-end developers are embracing React and the mobile developers are embracing React Natives.
+
+**Link to work:** Not today :wink:
+
 ### Day 18: February 4, 2017
 
 **Today's Progress**: Continued with Progressive Web Apps.
