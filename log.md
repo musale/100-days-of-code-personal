@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 19: February 5, 2017
+### Day 20: February 5th, 2017
+
+**Today's Progress**: I started on intermediate GoLang. I want to create a simple CRUD app and dive into the strings of Go programming. Later on I would like to expose endpoints for my project and hook in that React baby!
+
+**Thoughts:** installation of Revel was a bitch. Seriously. I spent over an hour trying to figure out why it's recreating deleted folders till I just restarted my PC and BOOM!
+
+**Link to work:** Not today :wink:
+
+### Day 19: February 5th, 2017
 
 **Today's Progress**: Went through some React JS Conf. 2016 videos. Some cool stuff going on in the React and React-Native scene.
 
