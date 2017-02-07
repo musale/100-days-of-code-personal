@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 20: February 5th, 2017
+### Day 21: February 7th, 2017
+
+**Today's Progress**: Working with controllers, models to create the API routes for the go CRUD app. Quite hectic but with help of GORP the ORM part was a bit sorted.
+
+**Thoughts:** doing the database connection almost had me after I forgot my localhost pass. Man. Never had a long, fruitless de-bugging session. Ended up guessing.
+
+**Link to work:** [GoLang Blog Created with REVEL and GORP](https://github.com/musale/go-blog)
+
+### Day 20: February 6th, 2017
 
 **Today's Progress**: I started on intermediate GoLang. I want to create a simple CRUD app and dive into the strings of Go programming. Later on I would like to expose endpoints for my project and hook in that React baby!
 
