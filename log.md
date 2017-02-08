@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 8th, 2017
+
+**Today's Progress**: Did some polish up reading the golang book.
+
+**Thoughts:** I think the golang book is the best place to learn go as a start
+
+**Link to work:** [GoLang Book Stuff](https://github.com/musale/go-practise-code)
+
 ### Day 21: February 7th, 2017
 
 **Today's Progress**: Working with controllers, models to create the API routes for the go CRUD app. Quite hectic but with help of GORP the ORM part was a bit sorted.
