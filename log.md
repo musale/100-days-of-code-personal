@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 9th, 2017
+
+**Today's Progress**: Finished up on the golang book.
+
+**Thoughts:** Channels, goroutines ... OK. Enough for today.
+
+**Link to work:** [GoLang Book Stuff](https://github.com/musale/go-practise-code)
+
 ### Day 22: February 8th, 2017
 
 **Today's Progress**: Did some polish up reading the golang book.
