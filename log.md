@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 10th, 2017
+
+**Today's Progress**: Made changes to the crud app.
+
+**Thoughts:** I implemented endpoints that receive and give JSON objects responses.
+
+**Link to work:** [GoLang Book Stuff](https://github.com/musale/go-practise-code)
+
 ### Day 23: February 9th, 2017
 
 **Today's Progress**: Finished up on the golang book.
