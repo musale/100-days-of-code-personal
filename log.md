@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 15th, 2017
+
+**Today's Progress**: Finished working on the project euler problems bot.
+
+**Thoughts:** Github api is still bonkers.
+
+**Link to work:** [Project Euler Streak](https://github.com/musale/project-euler-streak)
+
 ### Day 25: February 14th, 2017
 
 **Today's Progress**: Working on a bot that creates a streak for you in github by making Euler projects files to your repo that you can solve at your own time. a file a day..
