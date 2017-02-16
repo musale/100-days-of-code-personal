@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 16th, 2017
+
+**Today's Progress**: Started working on my github page landing page.
+
+**Thoughts:** Designs wow.
+
+**Link to work:** [Musale](https://musale.github.io/)
+
 ### Day 26: February 15th, 2017
 
 **Today's Progress**: Finished working on the project euler problems bot.
