@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 17th, 2017
+
+**Today's Progress**: Worked on a callbacks engine.
+
+**Thoughts:** What's wrong with GoLang and JSON.
+
+**Link to work:** [Musale](https://github.com/musale/returns/)
+
 ### Day 27: February 16th, 2017
 
 **Today's Progress**: Started working on my github page landing page.
