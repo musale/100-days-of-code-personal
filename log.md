@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 21st, 2017
+
+**Today's Progress**: Worked on a callbacks engine. Finished the initial saving DLRs.
+
+**Thoughts:** Now what do I do about Cassandra? MySQL will finish me.
+
+**Link to work:** [Musale](https://github.com/musale/returns/)
+
 ### Day 28: February 17th, 2017
 
 **Today's Progress**: Worked on a callbacks engine.
